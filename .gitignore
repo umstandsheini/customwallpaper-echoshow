@@ -1,0 +1,5 @@
+*.pem
+ca.pem
+echo_photo_server
+gencert/gencert
+server.log
